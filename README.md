@@ -1,4 +1,5 @@
-web-page-similarity
+Web page similarity
 ===================
 
-Find similar content structures on web pages
+Find similar content structures on web pages.
+Work like usual crawlers with intuitive algorithms to find similar content.
